@@ -1,0 +1,4 @@
+We have byte addressable memory, it means that we have unique address for each byte. 
+16-byte address space can contain 2^16 unique addresses.
+The number of entries = 2^16 B / 8 KB = 2^6 KB / 2^3 KB = 8
+Answer: 8 entries

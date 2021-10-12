@@ -1,0 +1,3 @@
+The difference between physical and virtual address is in the real its place.
+The real address of physical memory is in the RAM(main memory), but the real address of virtual memory is in the hard drive.
+
